@@ -7,7 +7,25 @@
 		<key>DemoAll.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>189FDBAD21ABEFF50052E80C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>189FDBC421ABF0080052E80C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>189FDBCF21ABF0080052E80C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
